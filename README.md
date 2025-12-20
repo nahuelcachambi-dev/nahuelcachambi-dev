@@ -44,7 +44,7 @@ Aquí puedes ver un resumen de mi actividad y las colaboraciones que he realizad
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
+  <a href="https://linkedin.com/in/nahuel-alberto-cachambi-29634126a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://tu-portfolio.com">
