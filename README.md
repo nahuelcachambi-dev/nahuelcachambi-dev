@@ -63,14 +63,6 @@ Mi enfoque no es solo que el código funcione, sino que sea **mantenible**. Impl
 
 ---
 
-### 📊 Actividad en GitHub
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stack-azulgrana&theme=radical&hide_border=true&area=true&bg_color=0d1117" />
-</div>
-
----
 
 <div align="center">
   <p>⚡ <i><b>Fun fact:</b> Cuando no estoy codeando, probablemente estoy analizando la arquitectura de alguna app que uso a diario para ver cómo la mejoraría.</i></p>
