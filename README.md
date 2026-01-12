@@ -1,8 +1,8 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%C2%A1Hola!+Soy+Nahuel+%F0%9F%91%8B;Desarrollador+Fullstack;Entusiasta+de+React+%26+Node.js;Fan+de+la+Arquitectura+Limpia" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=%C2%A1Hola!+Soy+Nahuel+%F0%9F%91%8B;Desarrollador+Fullstack;Entusiasta+de+React+%26+Node.js;Fan+de+la+Arquitectura+Limpia" alt="Typing SVG" />
+</a>
 
   <p align="center">
     🎓 <b>Analista Programador Universitario</b> (Recta final)
